@@ -1,0 +1,6 @@
+{
+  "session_id": "ORD-7842",
+  "payment_api_retries": 3,
+  "auth_token_refresh_failures": 2,
+  "service_degradation_duration": "4 minutes"
+}

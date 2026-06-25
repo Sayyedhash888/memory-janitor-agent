@@ -1,0 +1,9 @@
+{
+  "session_id": "cab40240",
+  "connection_string": "mysql://admin_root:[REDACTED_SECRET]@db-replica-01.internal.net:3306/production_v3?ssl_mode=verify-full",
+  "handshake_delay": "210ms",
+  "timeout_error": "Stream stalled! Connection deadline exceeded after 5.002 seconds.",
+  "backup_endpoint": "http://localhost:11434/v1",
+  "backup_engine": "GEMINI_MODEL=gemma4:e2b",
+  "heap_space_reclaimed": "42.4 MB"
+}

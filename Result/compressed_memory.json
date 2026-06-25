@@ -1,0 +1,6 @@
+{
+  "contact_email": "[REDACTED_EMAIL]",
+  "backup_ip": "[REDACTED_IP]",
+  "database_password": "[REDACTED_SECRET]",
+  "google_api_key": "[REDACTED_API_KEY]"
+}
